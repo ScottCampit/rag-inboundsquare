@@ -1,11 +1,9 @@
-chromadb>=0.4.22
+langchain-openai>=0.0.5
+langchain-community>=0.0.13
+langchain-core>=0.1.17
 langchain>=0.1.0
-langchain-community>=0.0.10
-langchain-openai>=0.0.2
-langchain-core>=0.1.10
-langchain-text-splitters>=0.0.1
-pypdf>=3.17.1
+chromadb>=0.4.22
+arxiv>=2.1.0
 python-dotenv>=1.0.0
 requests>=2.31.0
-sentence-transformers>=2.2.2
-arxiv>=2.1.0 
+pypdf>=4.0.0 
